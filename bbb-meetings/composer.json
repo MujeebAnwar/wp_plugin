@@ -1,0 +1,6 @@
+{
+  
+    "require": {
+        "bigbluebutton/bigbluebutton-api-php": "^2.0"
+    }
+}

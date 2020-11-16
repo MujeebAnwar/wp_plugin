@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .valid_error{
+     color: red;
+ }
+ .register_success{
+     color: greenyellow;
+ }
+ .ab_pad{
+     padding: 10px;
+ }
